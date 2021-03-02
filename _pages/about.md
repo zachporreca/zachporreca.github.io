@@ -12,8 +12,8 @@ Hello, and welcome to the site! Go ahead, take a look around; I'll wait here. Wo
 
 Whoa! Back already? Yeah, maybe I should build up the site more... stay tuned!
 
-#This is a section header when followed by the equals signs
-#======
+<!--This is a section header when followed by the equals signs
+<--======
 
-#put text here
+<--put text here
 

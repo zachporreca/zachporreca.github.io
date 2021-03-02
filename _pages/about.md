@@ -14,7 +14,7 @@ Whoa! Back already? Yeah, maybe I should build up the site more... stay tuned!
 
 <!--This is a section header when followed by the equals signs -->
 
-<!--====== -->
+<!-- ====== -->
 
-<!--put text here -->
+<!-- put text here -->
 

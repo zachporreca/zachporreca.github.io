@@ -13,9 +13,9 @@ Instructor on Record
 
 - ECON202: Principles of Macroeconomics -- Summer 2019
 
-Evaluations: Summary (coming soon)
-
-             [All Evaluations](/files/SEI_combined_WVU.pdf)
+Evaluations:
+- Summary (coming soon)
+- [All Evaluations](/files/SEI_combined_WVU.pdf)
              
 Selected Student Comments:
 - "I think that James is able to explain things better and more clearly than any other professor I've had."

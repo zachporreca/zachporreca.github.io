@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-Publications 
+##Publications 
 ========
 "Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels" (with R. Lawson) forthcoming, <i>Economics and Business Letters</i>
 
-Working Papers
+##Working Papers
 ========
 "Does the Taylor Rule Need a Tune-Up?" (with Scott Schuh, working paper available upon request)
 
@@ -17,6 +17,6 @@ Working Papers
 
 ["Unconventional US Monetary Policy and International Financial Market Stability"](/files/finstab.pdf)
 
-Works in Progress
+##Works in Progress
 =======
 "Averaging Away Uncertainty? Targeting Average Inflation with Unconventional Policies Under Uncertainty" (Job Market Paper)

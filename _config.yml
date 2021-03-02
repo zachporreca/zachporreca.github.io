@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "google-site-verification=PfXaePA-cycgYPYImxYXzO6ioVuohC8xCFk2c3fah0Q"
 

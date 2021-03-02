@@ -19,7 +19,7 @@ In addition to economics, I've gotten to do a lot of other fun things. I grew up
 <img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/nyc.JPG" width="305">
 <!--![](/images/personal/nyc.JPG)-->
 
-<img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/golfco.JPG" width="300">
+<img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/golfco.jpg" width="300">
 <!--![](/images/personal/golfco.JPG)-->
 
 <img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/hs.JPG" width="300">

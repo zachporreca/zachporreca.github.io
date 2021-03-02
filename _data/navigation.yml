@@ -7,13 +7,13 @@ main:
     url: /cv/
 
   - title: "Research"
-    url: /talks/    
+    url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Personal"
-    url: /portfolio/
+    url: /personal/
         
     
 

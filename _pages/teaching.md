@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Instructor on Record
+##Instructor on Record
 ========
 - ECON331: Money and Banking -- Fall 2020 (online, asynchronous), Spring 2021 (online, synchronous)
 
@@ -23,7 +23,7 @@ Selected Student Comments:
 - "(James) is good at explaining materials and related practical assignments. Great communicator, listener and motivating instructor."
 - "(James) was very nice and created a learning environment where I was not stressed or cramming everything in."
 
-As Teaching Assistant
+##As Teaching Assistant
 ========
 - ECON702: Advanced Macroeconomic Theory II (for Scott Schuh) -- Spring 2019
 

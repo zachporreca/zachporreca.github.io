@@ -14,6 +14,7 @@ Instructor on Record
 - ECON202: Principles of Macroeconomics -- Summer 2019
 
 Evaluations: Summary (coming soon)
+
              [All Evaluations](/files/SEI_combined_WVU.pdf)
              
 Selected Student Comments:

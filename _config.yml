@@ -50,14 +50,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "google-site-verification=PfXaePA-cycgYPYImxYXzO6ioVuohC8xCFk2c3fah0Q"
+google_site_verification : "PfXaePA-cycgYPYImxYXzO6ioVuohC8xCFk2c3fah0Q"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &JamesDean595
+  username               : &twitter "JamesDean595"
 facebook:
   username               :
   app_id                 :

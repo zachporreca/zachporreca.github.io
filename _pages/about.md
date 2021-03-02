@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to the site! Go ahead, take a look around; I'll wait here. Wow, okay; get comfy why don't you? (but not too comfy! This is a PROFESSIONAL webiste after all)
+Hello, and welcome to the site! Go ahead, take a look around; I'll wait here. Wow, oka. Get comfy why don't you? (but not too comfy! This is a PROFESSIONAL webiste after all)
 
 Whoa! Back already? Yeah, maybe I should build up the site more... stay tuned!
 

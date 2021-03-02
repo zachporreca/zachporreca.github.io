@@ -14,6 +14,7 @@ Hello, and welcome to the site! I'm currently a 4th-year PhD candidate at West V
 
 My job market paper considers whether average inflation targeting (AIT) improves monetary policy when the zero-lower bound is frequently binding and there is uncertainty in the output gap. In essence, we frequently struggle to know the economy's "potential" in real-time, so we're often setting policy based on a misperception of the economy's health. What's more, interest rates have fallen in the industrialized world, so interest rate policy is more frequently constrained by the lower bound, forcing the Fed to use unconventional tools like quantitative easing. To examine whether average inflation targeting actually improves policy when we consider these limitations, I augment a model of unconventional policy with AIT and incorporate persistent mispercepceptions in the output gap. I then estimate the model on post-Crisis US data, examine the efficiency frontier of monetary policy, and compare the welfare gains as the averaging window changes. Results are still TBD, so stay tuned. 
 
+<img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/jd.JPG" width="300">
 
 <!--Go ahead, take a look around; I'll wait here. Wow, okay. Get comfy why don't you? (Wait, no! Not that comfy! Oh god, stop! This is a PROFESSIONAL webiste after all)-->
 

@@ -5,12 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Publications 
+========
+Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels (with <a href="https://www.smu.edu/cox/our-people-and-community/faculty/Robert-Lawson" forthcoming, <i>Economics and Business Letters</i>
 
-{% include base_path %}
+Working Papers
+========
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

@@ -11,7 +11,7 @@ Publications
 
 Working Papers
 ========
-"Does the Taylor Rule Need a Tune-Up?" with Scott Schuh (working paper available upon request)
+"Does the Taylor Rule Need a Tune-Up?" (with Scott Schuh, working paper available upon request)
 
 ["A New Environment For Monetary Policy: Interest Bearing Reserves and Policy Implementation"](/files/IOER.pdf)
 

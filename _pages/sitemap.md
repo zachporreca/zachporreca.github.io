@@ -3,6 +3,9 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+redirect_from: 
+  - /sitemap.txt
+  - /sitemap.html
 ---
 
 {% include base_path %}

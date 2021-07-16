@@ -19,5 +19,5 @@ author_profile: true
 
 ## Works in Progress
 
-- "Averaging Away Uncertainty? Targeting Average Inflation with Unconventional Policies Under Uncertainty" (Job Market Paper)
+- "There's No Fighting FAIT: Flexible Average Inflation Targeting with Unconventional Policies" (Job Market Paper)
 

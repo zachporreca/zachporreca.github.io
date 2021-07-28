@@ -9,15 +9,15 @@ In addition to economics, I've gotten to do a lot of other fun things. I grew up
 
 
 
-<img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/giannis.JPG" width="400" />
+<img src="/images/personal/giannis.JPG" width="400" />
 
 ![](/images/personal/fam.JPG)
 
-![](/images/personal/jd.JPGs=200)
+![](/images/personal/jd.JPG)
 
-![](/images/personal/nyc.JPGs=200)
+![](/images/personal/nyc.JPG)
 
-![](/images/personal/golfco.jpgs=200)
+![](/images/personal/golfco.jpg)
 
-![](/images/personal/hs.JPGs=200)
+![](/images/personal/hs.JPG)
 

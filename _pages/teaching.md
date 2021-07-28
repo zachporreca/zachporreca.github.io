@@ -7,7 +7,7 @@ author_profile: true
 
 ## Instructor on Record
 
-- ECON331: Money and Banking -- Fall 2020 (online, asynchronous), Spring 2021 (online, synchronous)
+- ECON331: Money and Banking -- Fall 2020 (online, asynchronous), Spring 2021 (online, synchronous), Fall 2021
 
 - ECON302: Intermediate Macroeconomic Theory -- Fall 2019, Spring 2020
 

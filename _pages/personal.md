@@ -9,15 +9,10 @@ In addition to economics, I've gotten to do a lot of other fun things. I grew up
 
 
 
-<img src="/images/personal/giannis.JPG" width="400" />
+<img src="/images/personal/giannis.JPG" width="400" /> <img src="/images/personal/fam.JPG" width="400"/> 
 
-![](/images/personal/fam.JPG)
+<img src="/images/personal/blackwater.jpg" width="400"/> <img src="/images/personal/jd.JPG" width="400" /> 
 
-![](/images/personal/jd.JPG)
+<img src="/images/personal/nyc.JPG" width="400" /> <img src="/images/personal/golfco.jpg" width="400" />
 
-![](/images/personal/nyc.JPG)
-
-![](/images/personal/golfco.jpg)
-
-![](/images/personal/hs.JPG)
-
+<img src="/images/personal/hs.JPG" width="400"/>

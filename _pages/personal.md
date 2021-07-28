@@ -9,7 +9,7 @@ In addition to economics, I've gotten to do a lot of other fun things. I grew up
 
 <img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/giannis.JPG" >
 
-![](/images/personal/giannis.JPG){:height="700px" width="400px"}
+![](/images/personal/giannis.JPGs=200)
 
 <img src="https://github.com/JamesDean595/jamesdean595.github.io/blob/master/images/personal/fam.JPG" width="300">
 

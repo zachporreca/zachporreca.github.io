@@ -9,6 +9,8 @@ author_profile: true
 - "Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels" (with R. Lawson) <i>Economics and Business Letters</i> Vol. 10, No. 2 (June 2021).
 
 ## Working Papers
+- "There's No Fighting FAIT: Flexible Average Inflation Targeting with Unconventional Policies" (Job Market Paper, available upon request)
+
 - "Does the Taylor Rule Need a Tune-Up?" (with Scott Schuh, working paper available upon request)
 
 - ["A New Environment For Monetary Policy: Interest Bearing Reserves and Policy Implementation"](/files/IOER.pdf)
@@ -17,7 +19,7 @@ author_profile: true
 
 - ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), under review
 
-## Works in Progress
+<!-- ## Works in Progress 
 
-- "There's No Fighting FAIT: Flexible Average Inflation Targeting with Unconventional Policies" (Job Market Paper)
+
 

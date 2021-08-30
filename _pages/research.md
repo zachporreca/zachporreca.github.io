@@ -17,7 +17,7 @@ author_profile: true
 
 - ["Unconventional US Monetary Policy and International Financial Market Stability"](/files/finstab.pdf)
 
-- ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), under review
+- ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), revise and resubmit
 
 <!-- ## Works in Progress -->
 

@@ -13,11 +13,14 @@ author_profile: true
 
 - "Does the Taylor Rule Need a Tune-Up?" (with Scott Schuh, working paper available upon request)
 
+- ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), revise and resubmit at the <i>Journal of Institutional Economics<i> 
+    - [Twitter Thread](https://twitter.com/VincentGeloso/status/1409530926896402439?s=20)
+
 - ["A New Environment For Monetary Policy: Interest Bearing Reserves and Policy Implementation"](/files/IOER.pdf)
 
 - ["Unconventional US Monetary Policy and International Financial Market Stability"](/files/finstab.pdf)
 
-- ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), revise and resubmit
+
 
 <!-- ## Works in Progress -->
 

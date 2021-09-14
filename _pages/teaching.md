@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor on Record
+## Instructor of Record
 
 - ECON331: Money and Banking -- Fall 2020 (online, asynchronous), Spring 2021 (online, synchronous), Fall 2021
 

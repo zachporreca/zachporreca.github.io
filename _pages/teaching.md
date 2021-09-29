@@ -14,7 +14,7 @@ author_profile: true
 - ECON202: Principles of Macroeconomics -- Summer 2019
 
 Evaluations:
-- [Summary](/files/SEI_summary.pdf)
+- [Summary](/files/Teaching_Effectiveness.pdf)
 - [All Evaluations](/files/SEI_combined_WVU.pdf)
              
 Selected Student Comments:

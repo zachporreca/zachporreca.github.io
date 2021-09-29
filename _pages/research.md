@@ -11,7 +11,7 @@ author_profile: true
 ## Working Papers
 - "There's No Fighting FAIT: Flexible Average Inflation Targeting with Unconventional Policies" (Job Market Paper, available upon request)
 
-- "Does the Taylor Rule Need a Tune-Up?" (with Scott Schuh, working paper available upon request)
+- "Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?" (with Scott Schuh, working paper available upon request)
 
 - ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), revise and resubmit at the <i>Journal of Institutional Economics<i> 
     - [Twitter Thread](https://twitter.com/VincentGeloso/status/1409530926896402439?s=20)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to the site! I'm currently a job market candidate at West Virginia University, and my focus is macroeconomics and monetary policy. Specifically, my research looks at the changes in monetary policy with the introduction of unconventional policies, like forward guidance and quantitative easing. I also enjoy teaching, with most of my teaching experience focused on macroeconomics as well. Before grad school at WVU, I earned my bachelor's degree in economics from Lubbock Christian University, where I also played for the golf team. I'm on the job market in the 2021-2022 academic year, and I'll be at the Southerns and (virtual) AEA meetings. If you're interested, you can find a copy of my CV [here](/cv/).
+Hello, and welcome to the site! I'm currently a job market candidate in economics at West Virginia University, and my focus is macroeconomics and monetary policy. Specifically, my research looks at the changes in monetary policy with the introduction of unconventional policies, like forward guidance and quantitative easing. I also enjoy teaching, with most of my teaching experience focused on macroeconomics as well. Before grad school at WVU, I earned my bachelor's degree in economics from Lubbock Christian University, where I also played for the golf team. I'm on the job market in the 2021-2022 academic year, and I'll be at the Southerns and (virtual) AEA meetings. If you're interested, you can find a copy of my CV [here](/cv/).
 
 ## Job Market Paper: Better On Average?
 

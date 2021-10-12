@@ -9,7 +9,7 @@ author_profile: true
 - "Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels" (with R. Lawson) <i>Economics and Business Letters</i> Vol. 10, No. 2 (June 2021).
 
 ## Working Papers
-- "There's No Fighting FAIT: Flexible Average Inflation Targeting with Unconventional Policies" (Job Market Paper, available upon request)
+- "Better On Average: Average Inflation Targeting with Unconventional Monetary Policy" (Job Market Paper, available upon request)
 
 - "Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?" (with Scott Schuh, working paper available upon request)
 

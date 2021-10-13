@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications 
-- "Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels" (with R. Lawson) <i>Economics and Business Letters</i> Vol. 10, No. 2 (June 2021).
+- ["Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels"](https://reunido.uniovi.es/index.php/EBL/article/view/15513) (with R. Lawson) <i>Economics and Business Letters</i> Vol. 10, No. 2 (June 2021).
 
 ## Working Papers
 - ["Better On Average: Average Inflation Targeting with Unconventional Monetary Policy"](/files/Better_On_Average_JMP.pdf) (Job Market Paper)

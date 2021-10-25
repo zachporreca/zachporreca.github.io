@@ -11,7 +11,7 @@ author_profile: true
 ## Working Papers
 - ["Better On Average: Average Inflation Targeting with Unconventional Monetary Policy"](/files/Better_On_Average_JMP.pdf) (Job Market Paper)
 
-- ["Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?"](/files/Taylor_Rule.pdf) (with Scott Schuh, working paper available upon request)
+- ["Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?"](/files/Taylor_Rule.pdf) (with S. Schuh)
 
 - ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875551) (with V. Geloso), revise and resubmit at the <i>Journal of Institutional Economics<i> 
     - [Twitter Thread](https://twitter.com/VincentGeloso/status/1409530926896402439?s=20)

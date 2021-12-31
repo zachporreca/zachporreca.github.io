@@ -14,7 +14,7 @@ author_profile: true
 ## Working Papers
 - ["Better On Average: Average Inflation Targeting with Unconventional Monetary Policy"](/files/Better_On_Average_JMP.pdf) (Job Market Paper)
 
-- ["Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?"](/files/Taylor_Rule.pdf) (with S. Schuh)
+- ["Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?"](/files/Taylor_Rule.pdf) (with S. Schuh), under review
 
 
 - ["A New Environment For Monetary Policy: Interest Bearing Reserves and Policy Implementation"](/files/IOER.pdf)

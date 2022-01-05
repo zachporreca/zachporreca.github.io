@@ -9,10 +9,10 @@ I was born in Hartford, CT but moved to the Philadlephia area when I was very yo
 
 
 
-<img src="/images/personal/jonjon.jpg" width="400" /> <img src="/images/personal/suit_mason.jpg" width="400"/> 
+<img src="/images/personal/jonjon.jpg" width="400" height="200" /> <img src="/images/personal/suit_mason.jpg" width="400" height="200"/> 
 
-<img src="/images/personal/donkeys.jpg" width="400"/> <img src="/images/personal/boxing.jpg" width="400" /> 
+<img src="/images/personal/donkeys.jpg" width="400" height="200"/> <img src="/images/personal/boxing.jpg" width="400" height="200"/> 
 
-<img src="/images/personal/fish.jpg" width="400" /> <img src="/images/personal/fishing.jpg" width="400" />
+<img src="/images/personal/fish.jpg" width="400" height="200"/> <img src="/images/personal/fishing.jpg" width="400" height="200"/>
 
-<img src="/images/personal/olympia2.jpg" width="400"/> <img src="/images/personal/unc_eddy.jpg" width="400" />
+<img src="/images/personal/olympia2.jpg" width="400" height="200"/> <img src="/images/personal/unc_eddy.jpg" width="400" height="200"/>

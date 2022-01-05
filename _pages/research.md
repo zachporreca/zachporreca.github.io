@@ -6,16 +6,13 @@ author_profile: true
 ---
 
 ## Publications 
-- ["Economic Freedom Improves Income Mobility: Evidence from Canadian Provinces, 1982–2018"](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/economic-freedom-improves-income-mobility-evidence-from-canadian-provinces-19822018/01BC8700CF6897480369F0BBB9BA8F97) (with V. Geloso), forthcoming at the <i>Journal of Institutional Economics<i> 
-    - [Twitter Thread](https://twitter.com/VincentGeloso/status/1409530926896402439?s=20)
-- ["Who Gains from Economic Freedom? A Panel Analysis of Decile Income Levels"](https://reunido.uniovi.es/index.php/EBL/article/view/15513) (with R. Lawson) <i>Economics and Business Letters</i> Vol. 10, No. 2 (June 2021).
+- ["Assessing Ocean Temperature's Role in Fishery Production"](https://link.springer.com/epdf/10.1007/s10818-021-09311-1?sharing_token=gWznIDUC8ZpcNztdM3sg2fe4RwlQNchNByi7wbcMAY59LqNeAGkLBM-G7cpsNdG9k4HQjDrKVYpCKm1H8qHLvPrd9jmdqGEOIr3F8kiBA2FeAmlWcSvThY8rauPeWUoEJRJ-f0SKl9P5ciEMR6UGsl7KZzZEKfxuaQXraPoUF1I%3D),  <i>Journal of BioEconomics<i> 
+    - <b>Abstract<b>
+    -Ocean temperatures are increasing. Little work has been done to examine the effects that these changes will have on fishery production. The study at hand seeks to incorporate the influence of climate change into an established static bioeconomic fishery model. Stock biomass is approximated to be a function of sea surface temperature. Following a feasible generalized least squares regression using data from the Western and Central Pacific, the interaction between fishery effort and temperature is found to be statistically significant. From this model, various functional forms relating effort, catch, profit, and temperature are specified. In particular, a function that returns an effort requirement given a target catch level and temperature forecast is generated.The importance of these tools for fishery management is explored through application to Western and Central Pacific tuna fisheries. Recommendations for extensions into future research are made and the foundation for a model of efficient effort allocation across time and the entirety of a management area, given changing temperatures, is specified. The study has succeeded in establishing the statistically significant role that temperature plays in the fishery production function.
 
 
 ## Working Papers
-- ["Better On Average: Average Inflation Targeting with Unconventional Monetary Policy"](/files/Better_On_Average_JMP.pdf) (Job Market Paper)
-
-- ["Is the Taylor Rule Still an Adequate Representation of Monetary Policy in Macroeconomic Models?"](/files/Taylor_Rule.pdf) (with S. Schuh), under review
-
+- "The Right to Counsel: Criminal Prosecution in 19th Century London"(with B. McCannon), under review.
 
 - ["A New Environment For Monetary Policy: Interest Bearing Reserves and Policy Implementation"](/files/IOER.pdf)
 

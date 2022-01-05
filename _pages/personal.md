@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-In addition to economics, I've gotten to do a lot of other fun things. I grew up in Lubbock, TX, where my parents own and operate [Joyland Amusement Park](https://joylandpark.com/). I played golf competitvely during my high school and undergrad years, and still play recreationally (current handicap: 2.1). Additonally, while in undergrad, I spent a semester in Washington DC interning for the Cato Institute. In my free time, I like to play golf and basketball, watch sports (go Mavs! go Cowboys!), and just be a [fun guy](https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball).
+I was born in Hartford, CT but moved to the Philadlephia area when I was very young to be closer to my dad's family. Before college, I spent a few years traveling and working all sorts of jobs. I've been a cook at two different Italian restaraunts in Honolulu, a commercial fisherman, a union low-voltage electrician, and a legal assistant at a criminal defense firm, among other jobs. Most of my free time is spent going on adventures outdoors (primarily with my awesome best friend, an 11 year old Poi dog I adopted as a teenager), reading a pretty eclectic range of books, and hanging out with friends and family. I love old Sci-Fi and corny comedies (in the vein of Step Brothers). For a while, I tried pursuing a boxing career. It didn't work out too well, but I did get the opportunity to get beat up by a world champion. Most importantly, as a kid my dream was to be an astronaut. I think I'm clearly heading in the right direction to fulfill that one.
 
 
 

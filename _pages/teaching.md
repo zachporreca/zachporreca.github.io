@@ -15,7 +15,7 @@ author_profile: true
 - ARE 187: Energy Economics (for Stacia Harper) -- Fall 2020
 
 
-## Undergraduate Research Mentor
+## As Research Mentor
 
 - [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home)
 

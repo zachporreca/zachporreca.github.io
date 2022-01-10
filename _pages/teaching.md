@@ -17,6 +17,6 @@ author_profile: true
 
 ### As Research Mentor
 
-- [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home)
+- [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home) -- Summer 2021
 
 

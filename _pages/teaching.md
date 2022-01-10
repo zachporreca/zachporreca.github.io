@@ -4,9 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## West Virginia University
 
-
-## As Teaching Assistant
+### As Teaching Assistant
 
 - ECON 711: Advanced Microeconomic Theory II (for Kole Reddig) -- Spring 2022
 
@@ -15,7 +15,7 @@ author_profile: true
 - ARE 187: Energy Economics (for Stacia Harper) -- Fall 2020
 
 
-## As Research Mentor
+### As Research Mentor
 
 - [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home)
 

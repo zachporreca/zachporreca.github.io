@@ -10,7 +10,7 @@ author_profile: true
 
  
 ## Working Papers
-- "The Right to Counsel: Criminal Prosecution in 19th Century London"(with B. McCannon), under review.
+- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013)(with B. McCannon), under review.
 
 
 - ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), under review
@@ -20,7 +20,7 @@ author_profile: true
 
 - "Revisiting Competition Among Pressure Groups for Political Influence"
 
-- "Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931)
 
   
 ## Works in Progress

@@ -13,12 +13,14 @@ author_profile: true
 - "The Right to Counsel: Criminal Prosecution in 19th Century London"(with B. McCannon), under review.
 
 
-- ["Gentrification, Gun Violence, and Coordination Failure"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), under review
+- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), under review
 
   
 - "Three Golden Balls: Pawn Shops and Crime" (with B. McCannon and Z. Rodriguez), under review
 
 - "Revisiting Competition Among Pressure Groups for Political Influence"
+
+- "Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"
 
   
 ## Works in Progress

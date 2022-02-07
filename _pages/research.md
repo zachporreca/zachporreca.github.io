@@ -27,6 +27,7 @@ author_profile: true
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Piracy and EEZ Fishery Rights in Somalia"
 - "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative"
+- "Measuring the Economic Benefit of Sporting Events Using Foot Traffic Microdata" (with A. Nowak)
 
 
 

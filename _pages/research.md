@@ -28,7 +28,7 @@ author_profile: true
 - "Piracy and EEZ Fishery Rights in Somalia"
 - "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative"
 - "Measuring the Economic Benefit of Sporting Events Using Foot Traffic Microdata" (with A. Nowak)
-
+- "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
 
 
 

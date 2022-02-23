@@ -20,3 +20,6 @@ author_profile: true
 - [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home) -- Summer 2021
 
 
+## University of Sassari Text Analysis Workshop
+
+- Demonstrative lecture on text analysis in R

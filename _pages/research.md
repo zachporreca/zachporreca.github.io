@@ -20,7 +20,7 @@ author_profile: true
 
 - "Revisiting Competition Among Pressure Groups for Political Influence"
 
-- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931)
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), under review
 
   
 ## Works in Progress

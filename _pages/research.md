@@ -10,24 +10,21 @@ author_profile: true
 
  
 ## Working Papers
-- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013)(with B. McCannon), under review.
+- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon), under review.
 
 
 - ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), under review
 
   
-- "Three Golden Balls: Pawn Shops and Crime" (with B. McCannon and Z. Rodriguez), under review
-
-- "Revisiting Competition Among Pressure Groups for Political Influence"
+- ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez), under review
 
 - ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), under review
 
   
 ## Works in Progress
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
-- "Piracy and EEZ Fishery Rights in Somalia"
+- "Revisiting Competition Among Pressure Groups for Political Influence"
 - "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative"
-- "Measuring the Economic Benefit of Sporting Events Using Foot Traffic Microdata" (with A. Nowak)
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
 
 

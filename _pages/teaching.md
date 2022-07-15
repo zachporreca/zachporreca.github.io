@@ -6,6 +6,9 @@ author_profile: true
 ---
 ## West Virginia University
 
+### As Instructor of Record
+- ECON 225: Business and Economics Statistics -- Fall 2022
+
 ### As Teaching Assistant
 
 - ECON 711: Advanced Microeconomic Theory II (for Kole Reddig) -- Spring 2022
@@ -19,7 +22,6 @@ author_profile: true
 
 - [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home) -- Summer 2021
 
-
-## University of Sassari Text Analysis Workshop
-
-- Demonstrative lecture on text analysis in R
+## Workshops
+- Center for Free Enterprise Summer Empirical Workshop -- Summer 2022
+- -University of Sassari Text Analysis Workshop -- Spring 2022

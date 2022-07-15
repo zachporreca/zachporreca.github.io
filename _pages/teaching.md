@@ -24,4 +24,4 @@ author_profile: true
 
 ## Workshops
 - Center for Free Enterprise Summer Empirical Workshop -- Summer 2022
-- -University of Sassari Text Analysis Workshop -- Spring 2022
+- [University of Sassari Text Analysis Workshop](https://github.com/zachporreca/text_analysis_workshop) -- Spring 2022

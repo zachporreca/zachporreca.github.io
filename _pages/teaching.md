@@ -23,5 +23,5 @@ author_profile: true
 - [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home) -- Summer 2021
 
 ## Workshops
-- Center for Free Enterprise Summer Empirical Workshop -- Summer 2022
+- [Center for Free Enterprise Summer Empirical Workshop](https://github.com/zachporreca/data_basics_in_R)-- Summer 2022
 - [University of Sassari Text Analysis Workshop](https://github.com/zachporreca/text_analysis_workshop) -- Spring 2022

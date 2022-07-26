@@ -24,7 +24,7 @@ author_profile: true
 ## Works in Progress
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Revisiting Competition Among Pressure Groups for Political Influence"
-- "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative"
+- "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative" (funded by the Institute for Humane Studies under grant number IHS016506)
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
 - "Mask Mandates Increased Coid-19 Deaths in Kansas" (with B.McCannon and M. Wilson)
 - "Firearm Arrests and Criminal Deterrance: A Spatial Network Approach"

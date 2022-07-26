@@ -18,7 +18,7 @@ author_profile: true
   
 - ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez), under review
 
-- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), under review
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931),revise and resubmit
 
   
 ## Works in Progress
@@ -26,6 +26,8 @@ author_profile: true
 - "Revisiting Competition Among Pressure Groups for Political Influence"
 - "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative"
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
+- "Mask Mandates Increased Coid-19 Deaths in Kansas" (with B.McCannon and M. Wilson)
+- "Firearm Arrests and Criminal Deterrance"
 
 
 

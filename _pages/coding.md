@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Coding"
-permalink: /Coding/
+permalink: /coding/
 author_profile: true
 ---
 

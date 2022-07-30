@@ -7,7 +7,13 @@ main:
     url: /research/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    
+  - title: "Coding"
+    url: /coding/
+    
+  - title: "Media Coverage"
+    url: /media/
     
   - title: "Personal"
     url: /personal/

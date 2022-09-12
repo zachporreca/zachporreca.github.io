@@ -10,7 +10,7 @@ author_profile: true
 
  
 ## Working Papers
-- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Revisions requested at <i>Journal of Economic Behavior and Organization</i>
+- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Revisions requested at <i>Journal of Economic Behavior and Organization</i> (job market paper)
 
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon), under review.
   

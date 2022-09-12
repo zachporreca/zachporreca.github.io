@@ -10,15 +10,13 @@ author_profile: true
 
  
 ## Working Papers
+- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Revisions requested at <i>Journal of Economic Behavior and Organization</i>
+
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon), under review.
-
-
-- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Revisions requested
-
   
 - ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez), under review
 
-- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), Revisions requested (third round)
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), Revisions requested at <i>Economics Letters</i> (third round)
 
   
 ## Works in Progress

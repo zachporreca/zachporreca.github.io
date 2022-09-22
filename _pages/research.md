@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 ## Publications 
+
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), Forthcoming at <i>Economics Letters</i> 
+
 - ["Assessing Ocean Temperature's Role in Fishery Production"](https://link.springer.com/epdf/10.1007/s10818-021-09311-1?sharing_token=gWznIDUC8ZpcNztdM3sg2fe4RwlQNchNByi7wbcMAY59LqNeAGkLBM-G7cpsNdG9k4HQjDrKVYpCKm1H8qHLvPrd9jmdqGEOIr3F8kiBA2FeAmlWcSvThY8rauPeWUoEJRJ-f0SKl9P5ciEMR6UGsl7KZzZEKfxuaQXraPoUF1I%3D),  <i>Journal of Bioeconomics</i> 
 
  
 ## Working Papers
 - ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Revisions requested at <i>Journal of Economic Behavior and Organization</i> (job market paper)
-
-- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931), Revisions requested at <i>Economics Letters</i> 
 
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon), under review.
   

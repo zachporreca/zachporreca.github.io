@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications 
 
-- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003482?via%3Dihub), <i>Economics Letters</i> 
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://authors.elsevier.com/a/1fvWrbZedwrGQ), <i>Economics Letters</i> 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931) 
 
 - ["Assessing Ocean Temperature's Role in Fishery Production"](https://link.springer.com/epdf/10.1007/s10818-021-09311-1?sharing_token=gWznIDUC8ZpcNztdM3sg2fe4RwlQNchNByi7wbcMAY59LqNeAGkLBM-G7cpsNdG9k4HQjDrKVYpCKm1H8qHLvPrd9jmdqGEOIr3F8kiBA2FeAmlWcSvThY8rauPeWUoEJRJ-f0SKl9P5ciEMR6UGsl7KZzZEKfxuaQXraPoUF1I%3D),  <i>Journal of Bioeconomics</i> 

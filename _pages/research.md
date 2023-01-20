@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications 
 
+- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Accepted at <i>Journal of Economic Behavior and Organization</i>
+
 - ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://authors.elsevier.com/a/1fvWrbZedwrGQ), <i>Economics Letters</i> 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931) 
 
@@ -14,7 +16,7 @@ author_profile: true
 
  
 ## Working Papers
-- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Revisions requested at <i>Journal of Economic Behavior and Organization</i> (job market paper)
+
 
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon), under review.
   
@@ -25,7 +27,7 @@ author_profile: true
 ## Works in Progress
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Revisiting Competition Among Pressure Groups for Political Influence"
-- "Traffic in Illicit Drug Markets: The Impact of the Kensington Initiative" (funded by the Institute for Humane Studies under grant number IHS016506)
+- "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506)
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
 - "Mask Mandates Increased Covid-19 Deaths in Kansas" (with B.McCannon and M. Wilson)
 - "Firearm Arrests and Criminal Deterrence: A Spatial Network Approach"

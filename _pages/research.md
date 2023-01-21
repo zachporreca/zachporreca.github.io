@@ -9,7 +9,7 @@ author_profile: true
 
 - ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Accepted at <i>Journal of Economic Behavior and Organization</i>
 
-- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://authors.elsevier.com/a/1fvWrbZedwrGQ), <i>Economics Letters</i> 
+- ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003482), <i>Economics Letters</i> 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931) 
 
 - ["Assessing Ocean Temperature's Role in Fishery Production"](https://link.springer.com/epdf/10.1007/s10818-021-09311-1?sharing_token=gWznIDUC8ZpcNztdM3sg2fe4RwlQNchNByi7wbcMAY59LqNeAGkLBM-G7cpsNdG9k4HQjDrKVYpCKm1H8qHLvPrd9jmdqGEOIr3F8kiBA2FeAmlWcSvThY8rauPeWUoEJRJ-f0SKl9P5ciEMR6UGsl7KZzZEKfxuaQXraPoUF1I%3D),  <i>Journal of Bioeconomics</i> 
@@ -26,7 +26,6 @@ author_profile: true
   
 ## Works in Progress
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
-- "Revisiting Competition Among Pressure Groups for Political Influence"
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506)
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
 - "Mask Mandates Increased Covid-19 Deaths in Kansas" (with B.McCannon and M. Wilson)

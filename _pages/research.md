@@ -7,7 +7,8 @@ author_profile: true
 
 ## Publications 
 
-- ["Gentrification, Gun Violence, and Drug Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763), Accepted at <i>Journal of Economic Behavior and Organization</i>
+- ["Gentrification, Gun Violence, and Drug Markets"](https://www.sciencedirect.com/science/article/pii/S0167268123000173), <i>Journal of Economic Behavior and Organization</i>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763)
 
 - ["Synthetic Difference-In-Differences Estimation With Staggered Treatment Timing"](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003482), <i>Economics Letters</i> 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015931) 

@@ -29,8 +29,7 @@ author_profile: true
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506)
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
-- "Mask Mandates Increased Covid-19 Deaths in Kansas" (with B.McCannon and M. Wilson)
-- "Firearm Arrests and Criminal Deterrence: A Spatial Network Approach"
+- "Firearm Arrests and Criminal Deterrence"
 
 
 

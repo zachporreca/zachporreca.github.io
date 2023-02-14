@@ -7,6 +7,8 @@ author_profile: true
 ## West Virginia University
 
 ### As Instructor of Record
+- ECON 201: Introductory Microeconomics -- Spring 2023 *(online and asynchronous)*
+
 - ECON 225: Business and Economics Statistics -- Fall 2022
 
 ### As Teaching Assistant

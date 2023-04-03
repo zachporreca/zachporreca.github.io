@@ -29,4 +29,4 @@ author_profile: true
 - [University of Sassari Text Analysis Workshop](https://github.com/zachporreca/text_analysis_workshop) -- Spring 2022
 
 ## Guest Lectures
-- [Masaryk University Lecture of Staggered Difference-in-Differences Estimation](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/DiD_Guest_Lecture-1.pdf)--Spring 2023
+- [Masaryk University Lecture on Staggered Difference-in-Differences Estimation](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/DiD_Guest_Lecture-1.pdf)--Spring 2023

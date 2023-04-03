@@ -27,3 +27,6 @@ author_profile: true
 ## Workshops
 - [Center for Free Enterprise Summer Empirical Workshop](https://github.com/zachporreca/data_basics_in_R)-- Summer 2022
 - [University of Sassari Text Analysis Workshop](https://github.com/zachporreca/text_analysis_workshop) -- Spring 2022
+
+## Guest Lectures
+- [Masaryk University Lecture of Staggered Difference-in-Differences Estimation]()--Spring 2023

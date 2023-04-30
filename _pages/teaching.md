@@ -24,9 +24,13 @@ author_profile: true
 
 - [Appalachian Gerontology Experiences: Advancing Diversity in Aging Research](https://age-adar.wvu.edu/home) -- Summer 2021
 
+---
+
 ## Workshops
 - [Center for Free Enterprise Summer Empirical Workshop](https://github.com/zachporreca/data_basics_in_R)-- Summer 2022
 - [University of Sassari Text Analysis Workshop](https://github.com/zachporreca/text_analysis_workshop) -- Spring 2022
+
+---
 
 ## Guest Lectures
 - [Masaryk University Lecture on Staggered Difference-in-Differences Estimation](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/DiD_Guest_Lecture-1.pdf)--Spring 2023

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, thanks for taking a look! I am a Post-doc in the [CLEAN unit](https://clean.unibocconi.eu/) at Bocconi University, where I study the economics of law and crime. I completed my PhD in Economics at West Virginia University in February of 2023. I'm primarily interested in the ways people intereact with one another outside of formal institutions. Prior to joing WVU's Economics department, I spent a year in the Natural Resource Economics department there, working on research related to fishery production. I do hope to do a bit more work in that area in the future. My undergrad was completed through Pell Grant funding at Bloomsburg University in Central Pennsylvania. In my free time I like to travel and spend time outdoors. 
+Hello, thanks for taking a look! I am a Post-doc in the [CLEAN unit](https://clean.unibocconi.eu/) at Bocconi University, where I study the economics of law and crime. I completed my PhD in Economics at West Virginia University in February of 2023. I'm primarily interested in the ways people interact with one another outside of formal institutions. Prior to joing WVU's Economics department, I spent a year in the Natural Resource Economics department there, working on research related to fishery production. I do hope to do a bit more work in that area in the future. My undergrad was completed amdist COVID in 2020 through Pell Grant funding at Bloomsburg University in Central Pennsylvania. In my free time I like to travel and spend time outdoors. 
 
 <img src="/images/personal/olympia.jpg" width="1000"/>
 

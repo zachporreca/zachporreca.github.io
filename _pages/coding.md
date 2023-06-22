@@ -7,7 +7,7 @@ author_profile: true
 
 Check out my [main github page](https://github.com/zachporreca) to see some of the coding things I've been working on lately. I really don't think of myself as a coder. However, I do try and be resourceful when I come across unsolved problems in my own research. On occasion this can lead me to some unintentional public good provision. I work almost entirely in R, but I have had to make some forays into Julia and Bash scripts.
 
-## R Package: "lpdid" written with [Alex Cardazzi]https://alexcardazzi.github.io/()
+## R Package: "lpdid" written with [Alex Cardazzi](https://alexcardazzi.github.io/)
 - Implements the Linear Projections Difference-in-Differences estimator of [Dube et al. (2023)](https://www.nber.org/papers/w31184)
 - This package can be installed as follows:
    ```

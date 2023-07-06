@@ -33,7 +33,7 @@ author_profile: true
 - "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
 - "Firearm Arrests and Criminal Deterrence"
 - "The Perfect Storm: Italian Immigration, Prohibition and Crime" (with M. Anelli and P. Pinotti)
-- "Endogenizing Banditry"
+- "Endogenous Banditry and Property Rights"
 
 
 

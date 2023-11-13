@@ -13,7 +13,7 @@ I was born in Hartford, CT but moved to the Philadlephia area when I was very yo
 <img src="/images/personal/suit_mason.jpg" width="450"/> <img src="/images/personal/fishing.jpg" width="450"  />
 <img src="/images/personal/fish.jpg" width="450" /> <img src="/images/personal/unc_eddy.jpg" width="450" />
 <img src="/images/personal/boxing.jpg" width="450"/> <img src="/images/personal/olympia2.jpg" width="450" /> 
-<img src="/images/personal/DSC_8360.JPG" width="450"/> <img src="/images/personal/DSC_8286.JPG" width="450"/>
+<img src="/images/personal/DSC_8360.JPG" width="450"/> <img src="/images/personal/crete.jpg" width="450"/>
 
 
 

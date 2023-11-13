@@ -20,20 +20,23 @@ author_profile: true
 ## Working Papers
 
 
-- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon), under review.
+- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon)
   
-- ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez), under review
+- ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez)
+
+- "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506, draft available soon)
 
 
- 
  ---
 ## Works in Progress
-- "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
-- "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506)
-- "Estimating the Demand for Illegal and Legal Substitute Goods" (with K. Reddig)
-- "Firearm Arrests and Criminal Deterrence"
 - "The Perfect Storm: Italian Immigration, Prohibition and Crime" (with M. Anelli and P. Pinotti)
+- "Bride Kidnapping and Female Migration"
+- "Collusion in Contests"
+- "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
+- "Firearm Arrests and Criminal Deterrence"
 - "Endogenous Banditry and Property Rights"
+
+
 
 
 

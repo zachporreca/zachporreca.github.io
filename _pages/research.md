@@ -30,13 +30,10 @@ author_profile: true
  ---
 ## Works in Progress
 - "The Perfect Storm: Italian Immigration, Prohibition and Crime" (with M. Anelli and P. Pinotti)
-- "Bride Kidnapping and Female Migration"
-- "Collusion in Contests"
+- "Bride Kidnapping, Female Out-Migration, and Elder Court Governance"
+- "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with J. Heflin and M. Stockman)
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Firearm Arrests and Criminal Deterrence"
-- "Endogenous Banditry and Property Rights"
-
-
 
 
 

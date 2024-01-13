@@ -25,12 +25,13 @@ author_profile: true
 - ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez)
 
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506, draft available soon)
+- ["A Note on Uncertainty Quantification for Maximum Likelihood Parameters Estimated with Heuristic Based Optimization Algorithms"](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/A_Note_on_Uncertainty_Quantification_for_Parameters_Estimated_with_Non_Gradient_Based_Optimization_Algorithms.pdf)
+- "Informal Governance Institutions' Role in Perpetuating Bride Kidnapping" (draft available soon)
 
 
  ---
 ## Works in Progress
 - "The Perfect Storm: Italian Immigration, Prohibition and Crime" (with M. Anelli and P. Pinotti)
-- "Informal Governance Institutions' Role in Perpetuating Bride Kidnapping"
 - "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with J. Heflin and M. Stockman)
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Firearm Arrests and Criminal Deterrence"

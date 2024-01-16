@@ -26,7 +26,7 @@ author_profile: true
 
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement: The Impact of the Kensington Initiative" (with A. Chalfin, funded by the Institute for Humane Studies under grant number IHS016506, draft available soon)
 - ["A Note on Uncertainty Quantification for Maximum Likelihood Parameters Estimated with Heuristic Based Optimization Algorithms"](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/A Note on Uncertainty Quantification for Maximum Likelihood Parameters Estimated with Heuristic Based Optimization Algorithms.pdf)
-- "Informal Governance Institutions' Role in Perpetuating Bride Kidnapping" (draft available soon)
+- "Bride Kidnapping" (draft available soon)
 
 
  ---

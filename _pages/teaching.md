@@ -33,5 +33,6 @@ author_profile: true
 ---
 
 ## Guest Lectures
+- [Bocconi University Lecture on Drug Market Disruptions](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/drug_market_crack_downs_lecture.pdf)--Spring 2024
 - [University of Sassari Lecture on a Practical Guide to Difference-in-Differences](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/did_lecture.pdf)--Spring 2024
 - [Masaryk University Lecture on Staggered Difference-in-Differences Estimation](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/DiD_Guest_Lecture-1.pdf)--Spring 2023

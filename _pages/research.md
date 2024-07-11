@@ -21,8 +21,8 @@ author_profile: true
 
 
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with B. McCannon, Revisions Requested at <i>Economica</i>)
-- ["Identifying the General Equilibrium Effects of Narcotics Enforcement"](https://www.econstor.eu/handle/10419/300107) (GLO Discussion Paper No. 1455, [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671), funded by the Institute for Humane Studies under grant number IHS016506)
-- ["Bride Kidnapping and Informal Governance Institutions"](https://www.econstor.eu/handle/10419/281989) (GLO Discussion Paper No. 1391)
+- "Identifying the General Equilibrium Effects of Narcotics Enforcement" ([GLO Discussion Paper No. 1455](https://www.econstor.eu/handle/10419/300107), [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671), funded by the Institute for Humane Studies under grant number IHS016506)
+- "Bride Kidnapping and Informal Governance Institutions" ([GLO Discussion Paper No. 1391](https://www.econstor.eu/handle/10419/281989))
 
 
  ---

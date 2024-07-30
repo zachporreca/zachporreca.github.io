@@ -40,6 +40,8 @@ author_profile: true
 - "Letter Grading Government Corruption" (with B. McCannon and A. Tsiukes)
 - "Firearm Arrests and Criminal Deterrence"
 
+---
+
 ## Resting Papers
 - ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) (with B. McCannon and Z. Rodriguez)
 - ["A Note on Uncertainty Quantification for Maximum Likelihood Parameters Estimated with Heuristic Based Optimization Algorithms"](https://arxiv.org/abs/2401.07176)

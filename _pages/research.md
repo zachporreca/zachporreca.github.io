@@ -17,10 +17,6 @@ author_profile: true
 
 ---
 
-## Policy Writing
-- ["Policy Brief - Inelastic Demand, Rational Consumers, and Drug Policy"](https://iep.unibocconi.eu/policy-brief-inelastic-demand-rational-consumers-and-drug-policy) (<i>IEP@BU Policy Brief</i>)
-
----
  
 ## Working Papers
 
@@ -31,6 +27,12 @@ author_profile: true
 
 
  ---
+
+ ## Other Writing
+- ["Policy Brief - Inelastic Demand, Rational Consumers, and Drug Policy"](https://iep.unibocconi.eu/policy-brief-inelastic-demand-rational-consumers-and-drug-policy) (<i>IEP@BU Policy Brief</i>)
+
+---
+
 ## Works in Progress
 - "The Perfect Storm: Italian Immigration, Prohibition and Crime" (with M. Anelli and P. Pinotti)
 - "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with J. Heflin and M. Stockman)

@@ -5,7 +5,7 @@ permalink: /opiate/
 ---
 
 
-<img src="/images/personal/opiate_workshop_2024.png" width="450"/> 
+<img src="/images/opiate_workshop_2024.png" width="900"/> 
 
 <iframe src="/files/schedule_wv_opiate_2024.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 

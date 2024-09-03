@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications 
-- "Economics of Criminal Governance" with [H. Thompson](https://www.henryathompson.com/), forthcoming in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024)
+- "Economics of Criminal Governance" with [H. Thompson](https://www.henryathompson.com/), forthcoming in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024
 
 - ["Gentrification, Gun Violence, and Drug Markets"](https://www.sciencedirect.com/science/article/pii/S0167268123000173), <i>Journal of Economic Behavior and Organization</i>, 2023
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763)

@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Publications 
+- "Bride Kidnapping and Informal Governance Institutions",  forthcoming in <i>Contemporary Economic Policy</i>, 2024
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://www.econstor.eu/handle/10419/281989)
+
 - "Economics of Criminal Governance" with [H. Thompson](https://www.henryathompson.com/), forthcoming in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024
 
 - ["Gentrification, Gun Violence, and Drug Markets"](https://www.sciencedirect.com/science/article/pii/S0167268123000173), <i>Journal of Economic Behavior and Organization</i>, 2023
@@ -24,7 +27,6 @@ author_profile: true
 
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with [B. McCannon](https://sites.google.com/site/bryancmccannon); Revisions Requested at <i>Economica</i>)
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement" ([GLO Discussion Paper No. 1455](https://www.econstor.eu/handle/10419/300107); [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671); funded by the Institute for Humane Studies under grant number IHS016506)
-- "Bride Kidnapping and Informal Governance Institutions" ([GLO Discussion Paper No. 1391](https://www.econstor.eu/handle/10419/281989); Revisions Requested at <i>Contemporary Economic Policy</i>)
 
 
  ---

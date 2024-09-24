@@ -25,7 +25,7 @@ author_profile: true
 ## Working Papers
 
 
-- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with [B. McCannon](https://sites.google.com/site/bryancmccannon); Revisions Requested at <i>Economica</i>)
+- ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013) (with [B. McCannon](https://sites.google.com/site/bryancmccannon); Conditionally accepted at <i>Economica</i>)
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement" ([GLO Discussion Paper No. 1455](https://www.econstor.eu/handle/10419/300107); [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671); funded by the Institute for Humane Studies under grant number IHS016506)
 
 

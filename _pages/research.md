@@ -8,11 +8,11 @@ author_profile: true
 ## Publications 
 - "The Right to Counsel: Criminal Prosecution in 19th Century London" with [B. McCannon](https://sites.google.com/site/bryancmccannon), forthcoming in  <i>Economica</i>, 2024
   <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006013)
-  
-- "Bride Kidnapping and Informal Governance Institutions",  forthcoming in <i>Contemporary Economic Policy</i>, 2024
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://www.econstor.eu/handle/10419/281989)
 
 - "Economics of Criminal Governance" with [H. Thompson](https://www.henryathompson.com/), forthcoming in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024
+
+- ["Bride Kidnapping and Informal Governance Institutions"](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12672), <i>Contemporary Economic Policy</i>, 2024
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://www.econstor.eu/handle/10419/281989)
 
 - ["Gentrification, Gun Violence, and Drug Markets"](https://www.sciencedirect.com/science/article/pii/S0167268123000173), <i>Journal of Economic Behavior and Organization</i>, 2023
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930763)

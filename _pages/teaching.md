@@ -9,11 +9,13 @@ author_profile: true
 - [Bocconi University Lecture on Drug Market Disruptions](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/drug_market_crack_downs_lecture.pdf)--Spring 2024
 - [University of Sassari Lecture on a Practical Guide to Difference-in-Differences](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/did_lecture.pdf)--Spring 2024
 - [Masaryk University Lecture on Staggered Difference-in-Differences Estimation](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/DiD_Guest_Lecture-1.pdf)--Spring 2023
+  
 ---
 
 ## Workshops
 - [Center for Free Enterprise Summer Empirical Workshop](https://github.com/zachporreca/data_basics_in_R)-- Summer 2022
 - [University of Sassari Text Analysis Workshop](https://github.com/zachporreca/text_analysis_workshop) -- Spring 2022
+  
 ---
 ## West Virginia University
 

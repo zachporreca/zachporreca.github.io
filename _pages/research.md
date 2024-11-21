@@ -32,7 +32,7 @@ author_profile: true
  ---
 
 ## Other Writing
-- ["Se il Fentanyl arriva in Europa"](https://www.rivistaeco.com/2024/11/16/se-il-fentanyl-arriva-in-europa/)(<i>Eco Rivista</i>, 2024, in Italian)
+- ["Se il Fentanyl arriva in Europa"]()([<i>Eco Rivista</i>](https://www.rivistaeco.com/2024/11/16/se-il-fentanyl-arriva-in-europa/), 2024, in Italian)
 - ["Precision policing: The Kensington Initiative’s targeted approach to combating the opioid epidemic"](https://www.niskanencenter.org/precision-policing-the-kensington-initiatives-targeted-approach-to-combating-the-opioid-epidemic/)(<i>Commentary for the Niskanen Center</i>, 2024) 
 - ["Policy Brief - Inelastic Demand, Rational Consumers, and Drug Policy"](https://iep.unibocconi.eu/policy-brief-inelastic-demand-rational-consumers-and-drug-policy) (<i>IEP@BU Policy Brief</i>, 2024)
 

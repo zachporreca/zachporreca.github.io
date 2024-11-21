@@ -32,9 +32,9 @@ author_profile: true
  ---
 
 ## Other Writing
-- ["Se il Fentanyl arriva in Europa"](https://www.rivistaeco.com/2024/11/16/se-il-fentanyl-arriva-in-europa/)(<i>Eco Rivista</i>)
-- ["Precision policing: The Kensington Initiative’s targeted approach to combating the opioid epidemic"](https://www.niskanencenter.org/precision-policing-the-kensington-initiatives-targeted-approach-to-combating-the-opioid-epidemic/)(<i>Commentary for the Niskanen Center</i>) 
-- ["Policy Brief - Inelastic Demand, Rational Consumers, and Drug Policy"](https://iep.unibocconi.eu/policy-brief-inelastic-demand-rational-consumers-and-drug-policy) (<i>IEP@BU Policy Brief</i>)
+- ["Se il Fentanyl arriva in Europa"](https://www.rivistaeco.com/2024/11/16/se-il-fentanyl-arriva-in-europa/)(<i>Eco Rivista</i>, 2024, in Italian)
+- ["Precision policing: The Kensington Initiative’s targeted approach to combating the opioid epidemic"](https://www.niskanencenter.org/precision-policing-the-kensington-initiatives-targeted-approach-to-combating-the-opioid-epidemic/)(<i>Commentary for the Niskanen Center</i>, 2024) 
+- ["Policy Brief - Inelastic Demand, Rational Consumers, and Drug Policy"](https://iep.unibocconi.eu/policy-brief-inelastic-demand-rational-consumers-and-drug-policy) (<i>IEP@BU Policy Brief</i>, 2024)
 
 
 ---
@@ -44,7 +44,7 @@ author_profile: true
 - "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with [J. Heflin](https://justinheflin.github.io/) and M. Stockman, draft coming soon)
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), proposal submitted)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), proposal submitted)
-- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [Z. Rodriguez](https://sites.google.com/view/zacharyrodriguez/cv?authuser=0), proposal in progress)
+- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), proposal in progress)
 
 ---
 

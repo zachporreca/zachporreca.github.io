@@ -44,7 +44,7 @@ author_profile: true
 - "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with [J. Heflin](https://justinheflin.github.io/) and M. Stockman, draft coming soon)
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), proposal submitted)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), proposal submitted)
-- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), proposal in progress)
+- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), proposal submitted)
 
 ---
 

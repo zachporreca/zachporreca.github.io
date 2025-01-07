@@ -42,6 +42,7 @@ author_profile: true
 ## Works in Progress
 - "The Departed: Origins and Persistence of Organized Crime in the United States" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), draft coming soon)
 - "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with [J. Heflin](https://justinheflin.github.io/) and M. Stockman, draft coming soon)
+- "Murder in the Marketplace" (with [V. Biagi](https://clean.unibocconi.eu/people/visiting-researchers/victoria-biagi) and [A. Cardazzi](https://alexcardazzi.github.io/), draft coming soon)
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), proposal submitted)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), proposal submitted)
 - "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), proposal submitted)

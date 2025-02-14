@@ -27,7 +27,7 @@ author_profile: true
  
 ## Working Papers
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement" ([GLO Discussion Paper No. 1455](https://www.econstor.eu/handle/10419/300107); [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671); funded by the Institute for Humane Studies under grant number IHS016506)
-- ["Murder in the Marketplace"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138103) (with [V. Biagi](https://clean.unibocconi.eu/people/visiting-researchers/victoria-biagi) and [A. Cardazzi](https://alexcardazzi.github.io/), draft available upon request, publicly available soon)
+- ["Murder in the Marketplace"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138103) (with [V. Biagi](victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/), draft available upon request, publicly available soon)
 
 
  ---

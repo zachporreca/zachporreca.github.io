@@ -27,7 +27,7 @@ author_profile: true
  
 ## Working Papers
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement" ([GLO Discussion Paper No. 1455](https://www.econstor.eu/handle/10419/300107); [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671); funded by the Institute for Humane Studies under grant number IHS016506)
-- ["Murder in the Marketplace"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138103) (with [V. Biagi](https://victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/))
+- "Murder in the Marketplace" (with [V. Biagi](https://victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/); [GLO Discussion Paper No. 1569](https://www.econstor.eu/handle/10419/311391))
 
 
  ---
@@ -42,7 +42,6 @@ author_profile: true
 
 ## Works in Progress
 - "The Departed: Origins and Persistence of Organized Crime in the United States" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), draft coming soon)
-- "Anonymity and Crime: Causal Effects of Mask Mandates and Bans" (with [J. Heflin](https://justinheflin.github.io/) and M. Stockman, draft coming soon)
 - "Understanding the roots of media bias with natural language processing: impacts of the repeal of the FCC Fairness Doctrine" (with [S. Jindal](https://clean.unibocconi.eu/people/research-assistants/sunakshi-rai-jindal), analysis in progress)
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), proposal submitted)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), proposal submitted)

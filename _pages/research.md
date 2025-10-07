@@ -42,10 +42,10 @@ author_profile: true
 
 ## Works in Progress
 - "The Departed: Italian Migration and the American Mafia" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), draft coming soon)
-- "Understanding the roots of media bias with natural language processing: impacts of the repeal of the FCC Fairness Doctrine" (with [S. Jindal](https://clean.unibocconi.eu/people/research-assistants/sunakshi-rai-jindal), analysis in progress)
-- "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), proposal approved, data transfers in progress)
-- "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), proposal approved, data transfers in progress)
-- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), proposal approved)
+- "PAIDUP: Planning Analyses of Interventions on Drug Markets in Urban Philadelphia" (Arnold Ventures funded project evaluating recent efforts to disrupt Philadelphia narcotics markets) 
+- "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), in coordination with Pennsylvania Department of Corrections, proposal approved, data transfers in progress)
+- "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), in coordination with Philadelphia District Attorney's Office DataLab, analysis in progress)
+- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), in coordination with Pennsylvania Department of Corrections, proposal approved, planning efforts in progress)
 
 ---
 

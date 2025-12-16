@@ -26,6 +26,7 @@ author_profile: true
 
  
 ## Working Papers
+- "The Departed: Italian Migration and the American Mafia" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home); [BAFFI CAREFIN Centre Research Paper No. 259](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5929475))
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement" ([GLO Discussion Paper No. 1455](https://www.econstor.eu/handle/10419/300107); [BAFFI CAREFIN Centre Research Paper No. 227](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890671); funded by the Institute for Humane Studies under grant number IHS016506) <i> Revisions Requested at Journal of Urban Economics </i>
 - "Murder in the Marketplace" (with [V. Biagi](https://victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/); [GLO Discussion Paper No. 1569](https://www.econstor.eu/handle/10419/311391); [BAFFI CAREFIN Research Paper No. 239](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5184742))
 
@@ -41,7 +42,6 @@ author_profile: true
 ---
 
 ## Works in Progress
-- "The Departed: Italian Migration and the American Mafia" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), draft coming soon)
 - "PAIDUP: Planning Analyses of Interventions on Drug Markets in Urban Philadelphia" (Arnold Ventures funded project evaluating recent efforts to disrupt Philadelphia narcotics markets) 
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), in coordination with Pennsylvania Department of Corrections, proposal approved, data transfers in progress)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), in coordination with Philadelphia District Attorney's Office DataLab, analysis in progress)

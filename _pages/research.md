@@ -43,10 +43,10 @@ author_profile: true
 
 ## Works in Progress
 - "PAIDUP: Planning Analyses of Interventions on Drug Markets in Urban Philadelphia" (Arnold Ventures funded project evaluating recent efforts to disrupt Philadelphia narcotics markets) 
-- "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), in coordination with Pennsylvania Department of Corrections, proposal approved, data transfers in progress)
+- "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), in coordination with Pennsylvania Department of Corrections, proposal approved, analysis in progress)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), in coordination with Philadelphia District Attorney's Office DataLab, analysis in progress)
 - "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), in coordination with Pennsylvania Department of Corrections, proposal approved, planning efforts in progress)
-- "Beyond Opioids: Exploring the Drug Epidemic in the Third Federal Reserve District" (with [A. Scavette](https://adamscavette.github.io/), prepared for <i>Federal Reserve Bank of Philadelphia: Community Development Report</i>)
+
 
 ---
 

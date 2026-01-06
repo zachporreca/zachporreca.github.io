@@ -29,7 +29,7 @@ author_profile: true
 
  
 ## Working Papers
-- "The Departed: Italian Migration and the American Mafia" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home); [CEPR Discussion Paper No. DP20972](https://cepr.org/publications/dp20972); [BAFFI CAREFIN Centre Research Paper No. 259](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5929475); [Rockwool Foundation Berlin Discussion Paper No. 165/25](https://www.rfberlin.com/network-paper/the-departed-italian-migration-and-the-american-mafia/))
+- "The Departed: Italian Migration and the American Mafia" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home); [CEPR Discussion Paper No. DP20972](https://cepr.org/publications/dp20972); [CESifo Working Paper No. 12364](https://www.ifo.de/en/cesifo/publications/2025/working-paper/departed-italian-migration-and-american-mafia); [BAFFI CAREFIN Centre Research Paper No. 259](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5929475); [Rockwool Foundation Berlin Discussion Paper No. 165/25](https://www.rfberlin.com/network-paper/the-departed-italian-migration-and-the-american-mafia/))
 - "Murder in the Marketplace" (with [V. Biagi](https://victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/); [GLO Discussion Paper No. 1569](https://www.econstor.eu/handle/10419/311391); [BAFFI CAREFIN Research Paper No. 239](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5184742); <i>Revisions Requested at Public Choice </i>)
 
 

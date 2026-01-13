@@ -8,6 +8,8 @@ author_profile: true
 ## Publications 
 - "Identifying the General Equilibrium Effects of Narcotics Enforcement", <i> Forthcoming at Journal of Urban Economics </i>, 2025
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://www.econstor.eu/handle/10419/300107)
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Supplemental Appendix and Replication Material)](https://www.openicpsr.org/openicpsr/project/241583/version/V1/view)
+
   
 - ["Economics of Criminal Governance"](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_460-1) with [H. Thompson](https://www.henryathompson.com/), in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024
   

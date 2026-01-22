@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications 
-- "Identifying the General Equilibrium Effects of Narcotics Enforcement", <i> Forthcoming at Journal of Urban Economics </i>, 2025
+- ["Identifying the General Equilibrium Effects of Narcotics Enforcement"](https://www.sciencedirect.com/science/article/pii/S0094119025000944), <i>Journal of Urban Economics </i>, 2025
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://www.econstor.eu/handle/10419/300107)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Supplemental Appendix and Replication Material)](https://www.openicpsr.org/openicpsr/project/241583/version/V1/view)
 
@@ -50,7 +50,7 @@ author_profile: true
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://brittevantiem.netlify.app/), in coordination with Pennsylvania Department of Corrections, proposal approved, analysis in progress)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), in coordination with Philadelphia District Attorney's Office DataLab, analysis in progress)
 - "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), in coordination with Pennsylvania Department of Corrections, proposal approved, planning efforts in progress)
-- "Life under the Theives Guild: Evidence from Rooftops" (with [Yuri Barreto](https://sites.google.com/view/yuribcoliveira/home); funded by Cosmos x IHS AI-Accelerated Scholarship Grant No. IHS019906)
+- "Life under the Theives Guild: Evidence from Rooftops" (with [Y. Barreto](https://sites.google.com/view/yuribcoliveira/home); funded by Cosmos x IHS AI-Accelerated Scholarship Grant No. IHS019906)
 
 
 ---

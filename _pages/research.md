@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ## Publications 
-- ["Identifying the General Equilibrium Effects of Narcotics Enforcement"](https://www.sciencedirect.com/science/article/pii/S0094119025000944), <i>Journal of Urban Economics </i>, 2025
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Working paper link)](https://www.econstor.eu/handle/10419/300107)
+- ["Identifying the General Equilibrium Effects of Narcotics Enforcement"](https://www.sciencedirect.com/science/article/pii/S0094119025000944), <i>Journal of Urban Economics </i>, 2026
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Supplemental Appendix and Replication Material)](https://www.openicpsr.org/openicpsr/project/241583/version/V1/view)
 
   

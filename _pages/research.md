@@ -48,7 +48,7 @@ author_profile: true
 - "PAIDUP: Planning Analyses of Interventions on Drug Markets in Urban Philadelphia" (Arnold Ventures funded project evaluating recent efforts to disrupt Philadelphia narcotics markets) 
 - "Who Are Those Peers Really?: Improving our Understanding of Peer Effects in Prison" (with [B. Van Tiem](https://sites.google.com/view/brittevantiem), in coordination with Pennsylvania Department of Corrections, proposal approved, analysis in progress)
 - "The Impact of Retaliatory Violence on Homicide Clearence Rates" (with [A. Golestani](https://ariagolestani.io/), in coordination with Philadelphia District Attorney's Office DataLab, analysis in progress)
-- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), in coordination with Pennsylvania Department of Corrections, proposal approved, planning efforts in progress)
+- "An RCT to improve take up of the Federal Bonding Program among recently released former inmates" (with [D. Britto](https://sites.google.com/site/diogobrittoecon/) and [E. Rackstraw](https://www.emmarackstraw.com/), in coordination with Pennsylvania Department of Corrections, funded by Arnold Ventures planning grant)
 - "Life under the Theives Guild: Evidence from Rooftops" (with [Y. Barreto](https://sites.google.com/view/yuribcoliveira/home); funded by Cosmos x IHS AI-Accelerated Scholarship Grant No. IHS019906)
 
 

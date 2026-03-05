@@ -8,6 +8,9 @@ author_profile: true
 ## General Interviews
 - SSRC-Arnold Ventures Criminal Justice Innovation Fellows Interview- [(SSRC link)](https://www.ssrc.org/criminal-justice-innovation-fellowship/2024/06/25/cji-fellow-zachary-porreca-on-gun-violence-drug-markets-and-the-prison-system/);  [(Arnold Ventures link)](https://www.arnoldventures.org/stories/if-you-get-these-policies-wrong-you-can-have-massive-and-harmful-effects)
 
+## Selected Coverage of "The Departed: Italian Migration and the American Mafia"
+- [How the Mafia Made Things Worse ... and Better? (City Journal)](https://cityjournal.substack.com/p/how-the-mafia-made-things-worse-and)
+  
 ## Selected Coverage of "Identifying the General Equilibrium Effects of Narcotics Enforcement"
 - [Inside the East Coast’s Largest Open-Air Drug Market (City Journal)](https://www.city-journal.org/article/inside-the-east-coasts-largest-open-air-drug-market)
 - [The Real Reason for the Drop in Fentanyl Overdoses (The Atlantic)](https://www.theatlantic.com/ideas/2026/01/opioid-overdose-decrease-fentanyl-china/685683/)

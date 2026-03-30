@@ -14,7 +14,7 @@ I am an incoming Senior Assistant Professor (RTT) at Magna Græcia University. B
 
 - Researcher at [CLEAN](https://clean.unibocconi.eu/people/researchers/zachary-porreca)
 - [SSRC-Arnold Ventures Criminal Justice Innovation Fellow](https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/)
-- Research Affiliate at Institute of Labor Economics (IZA)
+- Research Affiliate at [Institute of Labor Economics (IZA)](https://www.iza.org/people/affiliates/34754/zachary-porreca)
 - Associated Researcher with [Centro Ricerche Economiche Nord Sud (CRENoS)](https://crenos.unica.it/crenos/people/zachary-porreca)
 - Affiliated Researcher with the [International Center for Law & Economics (ICLE)](https://laweconcenter.org/author/zporreca/)
 - Fellow of the [Institute for European Policymaking (IEP@BU)](https://iep.unibocconi.eu/people/zachary-porreca)

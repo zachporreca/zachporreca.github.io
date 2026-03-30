@@ -14,11 +14,13 @@ I am an incoming Senior Assistant Professor (RTT) at Magna Græcia University. B
 
 - Researcher at [CLEAN](https://clean.unibocconi.eu/people/researchers/zachary-porreca)
 - [SSRC-Arnold Ventures Criminal Justice Innovation Fellow](https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/)
-- Fellow of the [Global Labor Organization (GLO)](https://glabor.org/user/zachporreca/)
+- Research Affiliate at Institute of Labor Economics (IZA)
 - Associated Researcher with [Centro Ricerche Economiche Nord Sud (CRENoS)](https://crenos.unica.it/crenos/people/zachary-porreca)
 - Affiliated Researcher with the [International Center for Law & Economics (ICLE)](https://laweconcenter.org/author/zporreca/)
 - Fellow of the [Institute for European Policymaking (IEP@BU)](https://iep.unibocconi.eu/people/zachary-porreca)
 - Fellow of [Centre on Economics, Finance and Regulation (BAFFI)](https://baffi.unibocconi.eu/zachary-porreca)
+- Fellow of the [Global Labor Organization (GLO)](https://glabor.org/user/zachporreca/)
+
 
 
 <img src="/images/personal/olympia.jpg" width="1000"/>

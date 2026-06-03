@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 ## Publications 
+- ["Murder in the Marketplace"](https://link.springer.com/content/pdf/10.1007/s11127-026-01415-4.pdf) with [V. Biagi](https://victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/), <i>Public Choice </i>, 2026
+  
 - ["Identifying the General Equilibrium Effects of Narcotics Enforcement"](https://www.sciencedirect.com/science/article/pii/S0094119025000944), <i>Journal of Urban Economics </i>, 2026
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(Supplemental Appendix and Replication Material)](https://www.openicpsr.org/openicpsr/project/241583/version/V1/view)
 
-  
 - ["Economics of Criminal Governance"](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_460-1) with [H. Thompson](https://www.henryathompson.com/), in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024
   
 - ["The Right to Counsel: Criminal Prosecution in 19th Century London"](https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12560) with [B. McCannon](https://sites.google.com/site/bryancmccannon), <i>Economica</i>, 2024
@@ -31,7 +32,6 @@ author_profile: true
  
 ## Working Papers
 - "The Departed: Italian Migration and the American Mafia" (with [M. Anelli](https://www.massimoanelli.com/) and [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home); [CEPR Discussion Paper No. DP20972](https://cepr.org/publications/dp20972); [CESifo Working Paper No. 12364](https://www.ifo.de/en/cesifo/publications/2025/working-paper/departed-italian-migration-and-american-mafia); [BAFFI CAREFIN Centre Research Paper No. 259](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5929475); [Rockwool Foundation Berlin Discussion Paper No. 165/25](https://www.rfberlin.com/network-paper/the-departed-italian-migration-and-the-american-mafia/); <i>Revisions Requested at Review of Economic Studies </i>)
-- "Murder in the Marketplace" (with [V. Biagi](https://victoriabiagi.github.io) and [A. Cardazzi](https://alexcardazzi.github.io/); [GLO Discussion Paper No. 1569](https://www.econstor.eu/handle/10419/311391); [BAFFI CAREFIN Research Paper No. 239](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5184742); <i>Accepted at Public Choice </i>)
 - "The Post-Fentanyl Urbanization of the Opioid Epidemic" (with [A. Kucera](https://econ.msu.edu/about/directory/kucera-alexander-grad-2022) and [A. Scavette](https://adamscavette.github.io/); [IZA Discussion Paper No. 18562](https://docs.iza.org/dp18562.pdf))
 
 

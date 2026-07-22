@@ -17,6 +17,7 @@ I am an incoming Senior Assistant Professor (RTT) at [Magna Græcia University](
 - Research Affiliate at [Institute of Labor Economics (IZA)](https://www.iza.org/people/affiliates/34754/zachary-porreca)
 - Senior Fellow of the [Niskanen Center](https://www.niskanencenter.org/policy/criminal-justice/)
 - Associated Researcher with [Centro Ricerche Economiche Nord Sud (CRENoS)](https://crenos.unica.it/crenos/people/zachary-porreca)
+- Faculty Affiliate of the [Invernizzi Center for Social Policy Impact Research and Evaluation (INSPIRE)](https://inspire.unibocconi.eu/people/zachary-porreca)
 - Affiliated Researcher with the [International Center for Law & Economics (ICLE)](https://laweconcenter.org/author/zporreca/)
 - Fellow of the [Institute for European Policymaking (IEP@BU)](https://iep.unibocconi.eu/people/zachary-porreca)
 - Fellow of [Centre on Economics, Finance and Regulation (BAFFI)](https://baffi.unibocconi.eu/zachary-porreca)

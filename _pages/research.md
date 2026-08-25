@@ -29,7 +29,7 @@ author_profile: true
 
 
 ## Book Chapters
-- ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) with [B. McCannon](https://sites.google.com/site/bryancmccannon) and [Z. Rodriguez](https://sites.google.com/view/zacharyrodriguez/home), <i>forthcoming</i> in ["The Economics of Crime and Justice: Empirical Perspectives on Institutions, Incentives, and Outcomes"](https://link.springer.com/book/9783032316080), 2026
+- ["Three Golden Balls: Pawn Shops and Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119571) with [B. McCannon](https://sites.google.com/site/bryancmccannon) and [Z. Rodriguez](https://sites.google.com/view/zacharyrodriguez/home), <i>forthcoming</i> in [*The Economics of Crime and Justice: Empirical Perspectives on Institutions, Incentives, and Outcomes*](https://link.springer.com/book/9783032316080), 2026
 - ["Economics of Criminal Governance"](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_460-1) with [H. Thompson](https://www.henryathompson.com/), in [*Handbook of Labor, Human Resources, and Population Economics*](https://link.springer.com/referencework/10.1007/978-3-319-57365-6), 2024
   
 ---

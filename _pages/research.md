@@ -38,7 +38,8 @@ author_profile: true
  ---
 
 ## Other Writing
-- ["Se il Fentanyl arriva in Europa"](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/fentanyl_eco_rivista.pdf)([<i>Eco Rivista</i>](https://www.rivistaeco.com/2024/11/16/se-il-fentanyl-arriva-in-europa/), 2024, in Italian)
+- ["Cosa c’entrano i talebani con il fentanyl"](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/ECO_Porreca.pdf)([<i>Eco Rivista</i>](https://www.rivistaeco.com/2026/08/21/cosa-centrano-i-talebani-con-il-fentanyl/), 2026)
+- ["Se il Fentanyl arriva in Europa"](https://github.com/zachporreca/zachporreca.github.io/blob/master/files/fentanyl_eco_rivista.pdf)([<i>Eco Rivista</i>](https://www.rivistaeco.com/2024/11/16/se-il-fentanyl-arriva-in-europa/), 2024)
 - ["Precision policing: The Kensington Initiative’s targeted approach to combating the opioid epidemic"](https://www.niskanencenter.org/precision-policing-the-kensington-initiatives-targeted-approach-to-combating-the-opioid-epidemic/)(<i>Commentary for the Niskanen Center</i>, 2024) 
 - ["Policy Brief - Inelastic Demand, Rational Consumers, and Drug Policy"](https://iep.unibocconi.eu/policy-brief-inelastic-demand-rational-consumers-and-drug-policy) (<i>IEP@BU Policy Brief</i>, 2024)
 

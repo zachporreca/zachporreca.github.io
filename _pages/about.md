@@ -12,7 +12,7 @@ I am an incoming Senior Assistant Professor (RTT) at [Magna Græcia University](
 
 <h3>Current Affiliations:</h3>
 
-<ul style="font-size: 8px;">
+<ul style="font-size: 12px;">
   <li>Researcher at <a href="https://clean.unibocconi.eu/people/researchers/zachary-porreca">CLEAN</a></li>
   <li><a href="https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/">SSRC-Arnold Ventures Criminal Justice Innovation Fellow</a></li>
   <li>Research Affiliate at <a href="https://www.iza.org/people/affiliates/34754/zachary-porreca">Institute of Labor Economics (IZA)</a></li>

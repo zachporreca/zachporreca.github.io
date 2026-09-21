@@ -11,8 +11,7 @@ redirect_from:
 I am an incoming Senior Assistant Professor (RTT) at [Magna Græcia University](https://diges.unicz.it/web/). Before this I spent three years as a post-doc in the [CLEAN unit](https://clean.unibocconi.eu/) at Bocconi University, where I am currently a Researcher, and as a [SSRC-Arnold Ventures Criminal Justice Innovation Fellow](https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/). Additionally, I am a Senior Fellow of the [Niskanen Center](https://www.niskanencenter.org/policy/criminal-justice/) and a Research Affiliate at [Institute of Labor Economics (IZA)](https://www.iza.org/people/affiliates/34754/zachary-porreca). I completed my [PhD in Economics](https://doi.org/10.33915/etd.12004) at West Virginia University in Spring 2023 under the supervision and mentorship of [Bryan McCannon](https://sites.google.com/site/bryancmccannon). I'm primarily interested in the ways people interact with one another outside of formal institutions. Prior to joing WVU's Economics department, I spent a year in the Natural Resource Economics department there, working on research related to fishery production. I do hope to do a bit more work in that area in the future. My undergrad was completed amdist COVID in 2020 through Pell Grant funding at [Bloomsburg University](https://www.commonwealthu.edu/academics/programs/economics-ba) in Central Pennsylvania. In my free time I like to travel and spend time outdoors. 
 
 
-<div class="affiliations">
-
+<div class="affiliations" markdown="1">
 ### Current Affiliations:
 - Researcher at [CLEAN](https://clean.unibocconi.eu/people/researchers/zachary-porreca)
 - [SSRC-Arnold Ventures Criminal Justice Innovation Fellow](https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/)

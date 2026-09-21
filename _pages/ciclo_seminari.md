@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ciclo di Seminari su Criminalità, Diritto, ed Economia 2026-2027"
-permalink: /ciclo_seminar/
+permalink: /ciclo_seminari/
 ---
 
 

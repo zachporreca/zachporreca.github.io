@@ -5,5 +5,5 @@ permalink: /ciclo_seminari/
 ---
 
 
- <iframe src="/images/econ_of_crime_seminar_series_poster.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+ <iframe src="/files/econ_of_crime_seminar_series_poster.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
 
